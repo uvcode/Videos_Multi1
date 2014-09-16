@@ -2,3 +2,8 @@
 
 
 2:::::::::::::::https://video.vzaar.com/vzaar/vza/777/target/vza77793926f30499d8de85a52d16916b2.mp4?response-content-disposition=inline&AWSAccessKeyId=AKIAJ74MFWNVAFH6P7FQ&Expires=1410845045&Signature=QccNNA1O99jVK4rucXppzQMPN1Y%3D&tse=20140916062256&amp=&hs=67fcf4e132adfad996a32b616284d404
+
+
+3::::::::::::::https://video.vzaar.com/vzaar/vzf/903/target/vzf9030192838b47bbb55c962636f510db.mp4?response-content-disposition=inline&AWSAccessKeyId=AKIAJ74MFWNVAFH6P7FQ&Expires=1410845187&Signature=NLQl7VlwOtRklyF4rFpxp%2Boi7FI%3D&tse=20140916062548&hs=1b4885905f715546c805f3ea333933ca
+
+4::::::::::::::https://video.vzaar.com/vzaar/vz1/9f6/target/vz19f6ca56ae0145b28b4b1f1865f6029e.mp4?response-content-disposition=inline&AWSAccessKeyId=AKIAJ74MFWNVAFH6P7FQ&Expires=1410845275&Signature=JUlg9gICqtQ7FswYL3%2BRAArkG%2Bw%3D&tse=20140916062733&hs=f0b2d2857943282e93eb456f6224a217
