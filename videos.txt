@@ -1,1 +1,4 @@
-https://video.vzaar.com/vzaar/vz9/0ec/target/vz90ecd058434d4c5b9224fe8084b0a279.mp4?response-content-disposition=inline&AWSAccessKeyId=AKIAJ74MFWNVAFH6P7FQ&Expires=1410843933&Signature=gSewVxK6ubuh1pQnOKleNDlmT8k%3D&tse=20140916060412&amp=&hs=9a97aad4ae8f6df6caf0a134a06f8e0e
+1::::::::::::https://video.vzaar.com/vzaar/vz9/0ec/target/vz90ecd058434d4c5b9224fe8084b0a279.mp4?response-content-disposition=inline&AWSAccessKeyId=AKIAJ74MFWNVAFH6P7FQ&Expires=1410843933&Signature=gSewVxK6ubuh1pQnOKleNDlmT8k%3D&tse=20140916060412&amp=&hs=9a97aad4ae8f6df6caf0a134a06f8e0e
+
+
+2:::::::::::::::https://video.vzaar.com/vzaar/vza/777/target/vza77793926f30499d8de85a52d16916b2.mp4?response-content-disposition=inline&AWSAccessKeyId=AKIAJ74MFWNVAFH6P7FQ&Expires=1410845045&Signature=QccNNA1O99jVK4rucXppzQMPN1Y%3D&tse=20140916062256&amp=&hs=67fcf4e132adfad996a32b616284d404
